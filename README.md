@@ -1,4 +1,4 @@
-# data-analyst-portfolio
+# data-analyst-portfolio 
 This repository showcases real-world data analysis projects using:
 - SQL
 - Power BI
